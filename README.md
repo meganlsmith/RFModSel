@@ -46,6 +46,8 @@ importance and a plot of the first two axes of the LDA.
 
 If you have any questions or comments, please email me at megansmth67@gmail.com.
 
+Please refer to: Smith ML, Ruffley MR, Espíndola AE, Tank DC, Sullivan J, Carstens BC. Demographic model selection using random forests and the site frequency spectrum. Molecular Ecology.
+
 References: 
 Excoffier, L., et al. Robust Demographic Inference from Genomic and SNP Data. PLoS 
     Genet. 9, e1003905 (2013).
