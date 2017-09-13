@@ -2,7 +2,7 @@
 Demographic Model Selection using Random Forests and the Site Frequency Spectrum
 
 Introduction:
-SFS_ABC.py will generate site frequency spectra under user-defined models and will use Random Forests to select the best model for an empirical dataset. 
+SFS_ABC.py will generate site frequency spectra under user-defined models and will use Random Forests to select the best model for an empirical dataset. This python script is written in python 2.7.
 
 
 Requirements:
