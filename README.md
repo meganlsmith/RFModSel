@@ -1,3 +1,13 @@
+
+NOTE: These scripts are replaced by those in delimitR (https://github.com/meganlsmith/delimitR), an R package. While delimitR can be used for species delimitation on a default model set, you can also use your own custom models just as you could with this script. To do so, just do the following:
+
+1) Name your tpl files {prefix}_1.tpl through {prefix}_n.tpl, where prefix can be anything and n is the number of models you're testing.
+2) Do the same with your .est files but with the .est extension.
+3) Put these files in a working directory.
+4) Start delimitR with the fastsimcoalsims function.
+
+Since the same functionality is available in the newer delimitR, these scripts are no longer being updated to work with new versions of R or python, so please use delimitR.
+
 # RFModSel
 Demographic Model Selection using Random Forests and the Site Frequency Spectrum
 
